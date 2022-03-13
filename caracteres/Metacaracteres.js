@@ -25,7 +25,7 @@
 // \               Escape         Uso de metacaracteres como literal
 // |               Ou             Operação de Ou           
 // ()              Grupo          Define um Grupo
-// \1...\9         Retrovisor     Resgasta grupos ja definidos
+// \1...\9         Retrovisor     Resgata grupos ja definidos
 
 // Usando Metacaracteres como literal
 const texto = '1,2,3,4,5,6,a.b c!d?e'
